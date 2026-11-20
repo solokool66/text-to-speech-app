@@ -49,3 +49,10 @@ app.*.map.json
 *.wav
 build_log.txt
 tts_run.log
+
+# Environment variables & secrets
+.env
+.env.*
+*.env
+*.pem
+*.key
